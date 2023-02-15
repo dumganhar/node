@@ -7,15 +7,19 @@ It is designed to be used together with `@nodegui/nodegui`. Qode achieves this b
 
 <img alt="logo" src="https://github.com/nodegui/nodegui/raw/master/extras/logo/nodegui.png" height="200" />
 
+## Changes in v18.12.1
+
+> Upgrade to Node v18.12.1. No other changes.
+
 ## Changes in v16.x
 
 > From version 16.x - qode will have the same version number as that of underlying node.
 >
-> This is a complete restructure of qode's source code. 
+> This is a complete restructure of qode's source code.
 >
 > It makes it easier to support all the architectures supported by nodejs
 >
-> Qode source code is now much more closer to node's source code. Making it easier to upgrade node.js. 
+> Qode source code is now much more closer to node's source code. Making it easier to upgrade node.js.
 >
 > No breaking changes.
 
@@ -189,7 +193,7 @@ The idea of Qode is derived from [yode][yode] and [electron](https://github.com/
 | v2.1.0 | v14.2.0 |
 | v2.1.1 | v14.17.0|
 | v16.4.0 | v16.4.0 |
-
+| v18.12.1 | v18.12.1 |
 
 ------------------
 
@@ -220,25 +224,10 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 ## Table of contents
 
 <<<<<<< HEAD
-* [Support](#support)
-* [Release types](#release-types)
-  * [Download](#download)
-    * [Current and LTS releases](#current-and-lts-releases)
-    * [Nightly releases](#nightly-releases)
-    * [API documentation](#api-documentation)
-  * [Verifying binaries](#verifying-binaries)
-* [Building Node.js](#building-nodejs)
-* [Security](#security)
-* [Contributing to Node.js](#contributing-to-nodejs)
-* [Current project team members](#current-project-team-members)
-  * [TSC (Technical Steering Committee)](#tsc-technical-steering-committee)
-  * [Collaborators](#collaborators)
-  * [Triagers](#triagers)
-  * [Release keys](#release-keys)
-* [License](#license)
-=======
+- [Node.js](#nodejs)
 - [Qode](#qode)
-  - [Changes in v3.0](#changes-in-v30)
+  - [Changes in v18.12.1](#changes-in-v18121)
+  - [Changes in v16.x](#changes-in-v16x)
   - [Changes in v2.0](#changes-in-v20)
     - [Note:](#note)
   - [Changes to Node.js](#changes-to-nodejs)
@@ -255,7 +244,7 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
   - [Thanks](#thanks)
   - [Qode - Node version table](#qode---node-version-table)
 - [Node.js README](#nodejs-readme)
-- [Table of contents](#table-of-contents)
+  - [Table of contents](#table-of-contents)
   - [Support](#support)
   - [Release types](#release-types)
     - [Download](#download)
@@ -273,6 +262,7 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
     - [Collaborator emeriti](#collaborator-emeriti)
     - [Triagers](#triagers)
     - [Release keys](#release-keys)
+    - [Security release stewards](#security-release-stewards)
   - [License](#license-1)
 >>>>>>> 89ccb29fe3c (qode patch)
 
