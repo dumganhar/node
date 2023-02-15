@@ -223,7 +223,6 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 
 ## Table of contents
 
-<<<<<<< HEAD
 - [Node.js](#nodejs)
 - [Qode](#qode)
   - [Changes in v18.12.1](#changes-in-v18121)
@@ -264,7 +263,6 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
     - [Release keys](#release-keys)
     - [Security release stewards](#security-release-stewards)
   - [License](#license-1)
->>>>>>> 89ccb29fe3c (qode patch)
 
 ## Support
 
